@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport React from 'react';\nimport Catalog from '../component/Catalog';\n\nvar Index = function Index(_ref) {\n  var pizza = _ref.pizza;\n  return /*#__PURE__*/_jsx(Catalog, {\n    pizza: pizza\n  });\n};\n\nexport var __N_SSG = true;\nexport default Index;","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { useSelector } from \"react-redux\";\nexport const useTypedSelector = useSelector;","map":null,"metadata":{},"sourceType":"module"}

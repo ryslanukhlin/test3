@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/basket": "pages/basket.html",
+  "/": "pages/index.js",
+  "/order": "pages/order.html",
+  "/pizza/[id]": "pages/pizza/[id].js",
+  "/user": "pages/user.html",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html"
+}

@@ -1,0 +1,82 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-28654a8145d7603786fc.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/UmOhV_xsXQMw7P1JHURxn/_buildManifest.js",
+    "static/UmOhV_xsXQMw7P1JHURxn/_ssgManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/chunks/main-1d6dbab7bed72fcc4394.js",
+      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
+      "static/chunks/framework.0c239260661ae1d12aa2.js",
+      "static/chunks/a698dc9a8471f44af007b502a6c266cb9dad8416.a56c61d08e6655c69c59.js",
+      "static/chunks/6ba19202b32ec5927de936cdb1248f92a0d9a494.55a713c041eeec445c75.js",
+      "static/chunks/3343819ec681dbac4ac2a0e065b782f32250d496.27c57368d4430411c692.js",
+      "static/css/45a1a33983f06717f4fe.css",
+      "static/chunks/pages/index-cb409b9f87e6805a3bd9.js"
+    ],
+    "/_app": [
+      "static/chunks/main-1d6dbab7bed72fcc4394.js",
+      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
+      "static/chunks/framework.0c239260661ae1d12aa2.js",
+      "static/chunks/a698dc9a8471f44af007b502a6c266cb9dad8416.a56c61d08e6655c69c59.js",
+      "static/chunks/6ba19202b32ec5927de936cdb1248f92a0d9a494.55a713c041eeec445c75.js",
+      "static/chunks/3343819ec681dbac4ac2a0e065b782f32250d496.27c57368d4430411c692.js",
+      "static/chunks/8844c7d8a1bc3b8648b4e581703756957ad66348.07ca42e3dc22d84fa0a1.js",
+      "static/css/87e6f98627e7696b54bb.css",
+      "static/chunks/pages/_app-da93e576f720a04468ce.js"
+    ],
+    "/_error": [
+      "static/chunks/main-1d6dbab7bed72fcc4394.js",
+      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
+      "static/chunks/framework.0c239260661ae1d12aa2.js",
+      "static/chunks/pages/_error-d94d96fb70eed011a26d.js"
+    ],
+    "/basket": [
+      "static/chunks/main-1d6dbab7bed72fcc4394.js",
+      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
+      "static/chunks/framework.0c239260661ae1d12aa2.js",
+      "static/chunks/a698dc9a8471f44af007b502a6c266cb9dad8416.a56c61d08e6655c69c59.js",
+      "static/chunks/6ba19202b32ec5927de936cdb1248f92a0d9a494.55a713c041eeec445c75.js",
+      "static/chunks/3343819ec681dbac4ac2a0e065b782f32250d496.27c57368d4430411c692.js",
+      "static/chunks/f6b09e3eab0f403b1c98dbfb93178873718e1c25.7e1da824acfe7e350087.js",
+      "static/css/01c308072675415d15c5.css",
+      "static/chunks/pages/basket-81f96fd9f8c6179efe42.js"
+    ],
+    "/order": [
+      "static/chunks/main-1d6dbab7bed72fcc4394.js",
+      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
+      "static/chunks/framework.0c239260661ae1d12aa2.js",
+      "static/chunks/a698dc9a8471f44af007b502a6c266cb9dad8416.a56c61d08e6655c69c59.js",
+      "static/chunks/6ba19202b32ec5927de936cdb1248f92a0d9a494.55a713c041eeec445c75.js",
+      "static/chunks/8844c7d8a1bc3b8648b4e581703756957ad66348.07ca42e3dc22d84fa0a1.js",
+      "static/css/663a6f054bd60a4f07c9.css",
+      "static/chunks/pages/order-88e987be75de8d3d5be4.js"
+    ],
+    "/pizza/[id]": [
+      "static/chunks/main-1d6dbab7bed72fcc4394.js",
+      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
+      "static/chunks/framework.0c239260661ae1d12aa2.js",
+      "static/chunks/a698dc9a8471f44af007b502a6c266cb9dad8416.a56c61d08e6655c69c59.js",
+      "static/chunks/8844c7d8a1bc3b8648b4e581703756957ad66348.07ca42e3dc22d84fa0a1.js",
+      "static/chunks/f6b09e3eab0f403b1c98dbfb93178873718e1c25.7e1da824acfe7e350087.js",
+      "static/css/5fec443a87714330e8cd.css",
+      "static/chunks/pages/pizza/[id]-3735e7c48fd5da043231.js"
+    ],
+    "/user": [
+      "static/chunks/main-1d6dbab7bed72fcc4394.js",
+      "static/chunks/webpack-50bee04d1dc61f8adf5b.js",
+      "static/chunks/framework.0c239260661ae1d12aa2.js",
+      "static/chunks/a698dc9a8471f44af007b502a6c266cb9dad8416.a56c61d08e6655c69c59.js",
+      "static/chunks/6ba19202b32ec5927de936cdb1248f92a0d9a494.55a713c041eeec445c75.js",
+      "static/chunks/3343819ec681dbac4ac2a0e065b782f32250d496.27c57368d4430411c692.js",
+      "static/css/5c78d293763d916142fe.css",
+      "static/chunks/pages/user-209772a5a6d0cf91854c.js"
+    ]
+  },
+  "ampFirstPages": []
+}

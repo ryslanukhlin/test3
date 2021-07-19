@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { createStore } from \"redux\";\nimport { composeWithDevTools } from \"redux-devtools-extension\";\nimport { rootReducer } from \"./reducer\";\nexport var store = createStore(rootReducer, composeWithDevTools());","map":null,"metadata":{},"sourceType":"module"}
